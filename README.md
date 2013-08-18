@@ -4,7 +4,7 @@ Finally a cheat sheet for Laravel 4. Keep in mind this is a work in progress and
 
 **Live Version Here:**
 
-[Laravel Cheat Sheets](http://cheats.jesse-obrien.ca)
+[Laravel Cheat Sheets](http://laravel.gen.tr/cheatsheet/)
 
 
 ### Contributing
